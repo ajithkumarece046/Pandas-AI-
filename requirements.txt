@@ -1,0 +1,5 @@
+streamlit == 1.35.0
+pandasai == 2.4.2
+python-dotenv
+seaborn == 0.13.2
+openai == 1.58.1
